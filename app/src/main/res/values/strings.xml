@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HTMLText</string>
+    <string name="html_string"><![CDATA[<p><b>This is bold title :</b></p><ol><li>This is first item in order list.</li><li>This is second item in order list.</li><li> Third Item, As it so contrasted oh estimating instrument. Size like body some one had. Are conduct viewing boy minutes warrant expense. Tolerably behaviour may admitting daughters offending her ask own. Praise effect wishes change way and any wanted.</li><li>This is fourth item.</li></ol>]]></string>
+</resources>
